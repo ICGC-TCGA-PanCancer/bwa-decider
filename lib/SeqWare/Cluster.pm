@@ -14,7 +14,7 @@ use File::Slurp;
 use XML::DOM;
 use JSON;
 use XML::LibXML;
-use XML::Simple;
+use XML::LibXML::Simple qw(XMLin);
 use Config::Simple;
 
 use Data::Dumper;
