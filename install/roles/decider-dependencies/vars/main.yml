@@ -1,0 +1,5 @@
+---
+# file: roles/decider-dependencies/vars/main.yml
+
+seqware_version: "1.1.0"
+user_name: "seqware"
